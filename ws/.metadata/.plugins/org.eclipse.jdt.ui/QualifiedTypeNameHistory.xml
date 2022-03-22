@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.security.Security"/>
+    <fullyQualifiedTypeName name="java.security.KeyPairGenerator"/>
+    <fullyQualifiedTypeName name="java.security.KeyPair"/>
+    <fullyQualifiedTypeName name="javax.crypto.Cipher"/>
+    <fullyQualifiedTypeName name="java.security.spec.ECGenParameterSpec"/>
+    <fullyQualifiedTypeName name="bwmorg.bouncycastle.util.encoders.Hex"/>
+    <fullyQualifiedTypeName name="net.javaguides.springboot.controller.FileEntityRepository"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ThreadLocalRandom"/>
+</qualifiedTypeNameHistroy>
